@@ -1,0 +1,7 @@
+ns3-src
+ns3-dist
+bin
+**/.waf*
+**/.vscode
+**/*.sw[a-p]
+
